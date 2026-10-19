@@ -29,6 +29,14 @@ const SKILLS = [
 
 const PROJECTS = [
   {
+  title: 'Acadex',
+  desc: 'Acadex is a student-focused academic platform where users can upload, access, and manage study notes, projects, and learning resources. Features include user authentication, likes, note views, project sharing, and organized academic content management.',  img: 'https://raw.githubusercontent.com/mulayharshal/Acadex/main/screenshots/Screenshot%202026-07-06%20132653.png',
+  tech: ['Spring Boot', 'JAVA', 'React', 'REST API', 'MySQL', 'Brevo API', 'JWT'],
+  github: 'https://github.com/mulayharshal/Acadex',
+  live: 'https://acadex-web.netlify.app/',
+  featured: false,
+},
+  {
     title: 'LifeTrace System',
     desc: 'Decentralized healthcare platform connecting donors, recipients, and hospitals. Features role-based access, OTP verification, ABO matching, and Polygon blockchain for tamper-proof transplant records.',
     img: 'https://raw.githubusercontent.com/mulayharshal/LifeTrace-Blockchain-Based-Organ-Donor-Registry-and-Matching-System/refs/heads/main/screenshots/hospitalDashboard.png',
